@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+python-dotenv
+pydantic
+faiss-cpu
+chromadb
+langchain-huggingface
+transformers
+huggingface-hub
+torch

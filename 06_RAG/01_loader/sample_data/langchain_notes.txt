@@ -1,0 +1,5 @@
+LangChain is a framework for building applications powered by language models.
+RAG means Retrieval Augmented Generation.
+A retriever finds relevant document chunks for a question.
+A vector store stores embeddings and supports similarity search.
+LCEL lets you connect prompts, models, parsers, and retrievers with pipe syntax.
