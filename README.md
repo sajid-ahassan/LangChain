@@ -4,9 +4,8 @@ This folder is designed for revision: open the folders in order and read the com
 
 ## Best revision order
 
-1. `00_Big_Picture` - what LangChain is and how everything connects.
-2. `01_Models` - chat models and embedding models.
-3. `02_Prompts` - prompt templates, chat prompts, placeholders.
+1. `01_Models` - chat models and embedding models.
+2. `02_Prompts` - prompt templates, chat prompts, placeholders.
 4. `03_Output_Parsers` - turning model text into clean Python values.
 5. `04_Chains_LCEL` - the pipe style: `prompt | model | parser`.
 6. `05_Messages_And_History` - system/user/AI messages and chat history.
@@ -14,8 +13,6 @@ This folder is designed for revision: open the folders in order and read the com
 8. `07_Structured_Output` - Pydantic schemas and JSON-like responses.
 9. `08_Tools_And_Agents` - tools, tool calling, agents.
 10. `09_Memory` - short-term and long-term conversation memory ideas.
-11. `10_Evaluation_Debugging` - testing, tracing, RAG quality checks.
-12. `11_Project_Templates` - mini project layouts you can copy later.
 
 ## Core mental model
 
